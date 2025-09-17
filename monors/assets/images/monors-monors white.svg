@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 515.34 185.58">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-family: Labora, Labora;
+        font-size: 173.28px;
+      }
+
+      .cls-4 {
+        fill: #5d892f;
+      }
+
+      .cls-4, .cls-2 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(0 147.29)"><tspan class="cls-2" x="0" y="0">mo</tspan><tspan class="cls-4" x="207.77" y="0">n</tspan><tspan class="cls-1" x="292.5" y="0">ors</tspan></text>
+</svg>
